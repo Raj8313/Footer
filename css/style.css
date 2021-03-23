@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,400&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.startupText {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.bgColorBlack {
+  background-color: #010101;
+}
+
+.anchorText {
+  color: #ccff00 !important;
+}
+
+.togglerBtnColor {
+  background-color: #ccff00;
+}
+
+.btnText {
+  background-color: #ccff00;
+  color: ;
+  border-radius: 99999px;
+}
+
+/* Second nav  */
+
+.bgColorWhite {
+  background-color: #ffffff;
+}
+
+.secondAnchorText {
+  color: #2f1793 !important;
+}
+
+.secondBtnText {
+  background-color: #4929eb;
+  color: #ffffff;
+  border-radius: 99999px;
+}
